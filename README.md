@@ -3,9 +3,8 @@
 ## Overview
 
 ![Dashboard Screenshot](dashboard_screenshot.png)
-This project is a ** Power BI dashboard ** designed to track **daily expenses** over three months (January, February, and March 2025). The dashboard provides insights into spending patterns, payment methods, and major expense categories.
 
-**Disclaimer:** This report is made purely for fun and learning purposes. Don't depend on it for financial decisions. 😊
+This project is a ** Power BI dashboard ** designed to track **daily expenses** over three months (January, February, and March 2025). The dashboard provides insights into spending patterns, payment methods, and major expense categories.
 
 ## Features
 - **Interactive visualizations** to analyze spending trends.
